@@ -18,7 +18,7 @@ Aplikacja umożliwia użytkownikowi utworzenie menu poprzez dodawanie dań, usuw
 
 1. Zaciągnąć projekt z repozytorium. (Code -> Git clone lub Download as zip)
 2. Dostosować namiary na bazę danych w pliku *application.properties*.
-3. (Krok opcjonalny) Odświeżyć dependencje Maven'a (dla IntelliJ w menu Maven nacisnąć przycisk *Reload*).
+3. (Krok opcjonalny) Odświeżyć dependencje Maven'a (dla IntelliJ w menu Maven nacisnąć przycisk *Reload All Maven Projects*).
 4. Uruchomienie z poziomu IntelliJ Idea - na górnym pasku w polu *Select Run/Debug Configuration* należy wybrać opcję ZtiApplication i nacisnąć zieloną strzałkę na prawo od tego pola.
 5. Uruchomienie z poziomu linii komend (wymaga zainstalowania Maven oraz ustawienia Maven w ścieżkach w zmiennych środowiskowych systemu). Należy przejść do katalogu, w którym znajduje się kod źródłowy. Następnie wykonać komendę *mvn clean install*. Przejść do katalogu target. Uruchomić aplikację za pomocą komendy *java -jar zti-1.0.jar*.
 
