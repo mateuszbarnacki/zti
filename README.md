@@ -23,7 +23,7 @@ Aplikacja umożliwia użytkownikowi utworzenie menu poprzez dodawanie dań, usuw
 5. Uruchomienie z poziomu linii komend (wymaga zainstalowania Maven oraz ustawienia Maven w ścieżkach w zmiennych środowiskowych systemu). Należy przejść do katalogu, w którym znajduje się kod źródłowy. Następnie wykonać komendę *mvn clean install*. Przejść do katalogu target. Uruchomić aplikację za pomocą komendy *java -jar zti-1.0.jar*.
 
 ## Wymagania
-Ze względu na wykorzystanie MongoDB wymagane jest instalacja bazy MongoDB (np. MongoDBCompass). 
+Ze względu na wykorzystanie MongoDB wymagana jest instalacja bazy MongoDB (np. MongoDBCompass). 
 
 ## Sposób wykorzystania
 
